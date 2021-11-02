@@ -1,10 +1,10 @@
 # Klassik Methode
 # Pivot Point
 
-o = input()
-h = input()
-l = input()
-c = input()
+o = float(input('Open: '))
+h = float(input('High: '))
+l = float(input('Low: '))
+c = float(input('Close: '))
 
 kp = (h+l+c)/3
 

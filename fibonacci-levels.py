@@ -1,7 +1,7 @@
 # Fibonacci Levels
 
-h = 1802.90
-l = 1772.40
+h = float(input('High: '))
+l = float(input('Low: '))
 
 d = h-l
 
