@@ -1,10 +1,10 @@
 # Klassik Methode
 # Pivot Point
 
-o = 1801.50
-h = 1802.90
-l = 1772.40
-c = 1783.90
+o = input()
+h = input()
+l = input()
+c = input()
 
 kp = (h+l+c)/3
 
